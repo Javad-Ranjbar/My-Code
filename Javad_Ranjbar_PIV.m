@@ -1,9 +1,6 @@
 % Methods of optical measurement in fluid mechanics
 % Particle Image Velocimetry (PIV) Project
 % Writer: Javad Ranjbar Kermani
-% Student ID: 400209795
-% Instructor: Dr Shafii
-% Daedline : 1401/4/8
 %% ----------------------------------------------------------------------------
 clc;clear;close all;
 fprintf('Starting the PIV code...\n')
