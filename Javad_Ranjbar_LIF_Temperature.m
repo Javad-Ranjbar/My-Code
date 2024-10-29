@@ -2,9 +2,6 @@
 % Laser Induced Fluorescence(LIF) Project
 % Part2: Temperature Measurment
 % Writer: Javad Ranjbar Kermani
-% Student ID: 400209795
-% Instructor: Dr Shafii
-% Daedline : 1401/4/16
 %% -----------------------------------------------------------------------
 clc;clear;close all; 
 tic 
